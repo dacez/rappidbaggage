@@ -33,11 +33,15 @@
 
 ## 三. 工具
 3.1 流水线 + 缓存 工具
+
 3.2 内存统计
+
 3.3 GC 观察
+
 3.4 GO 反汇编工具
 
 ## 四. 结果
 4.1 Go 版本的 Baggage + Benchmark
+
 4.2 C++ 版本的 Baggage + Benchmark
 
